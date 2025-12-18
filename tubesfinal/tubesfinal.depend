@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1766070538 source:c:\users\dedy\tubesfinal\tubes.cpp
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1766070538 c:\users\dedy\tubesfinal\parent.h
+	<iostream>
+
+1766070538 c:\users\dedy\tubesfinal\child.h
+	<iostream>
+
+1766070538 c:\users\dedy\tubesfinal\relasi.h
+	"parent.h"
+	"child.h"
+
